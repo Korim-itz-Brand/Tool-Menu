@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/391.0.0.69.83;FBBV/538980415;FBRV/0;FBPN/com.facebook.katana;FBLC/bs_BA;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy M13 5G;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/399.0.0.62.29;FBBV/992837360;FBRV/0;FBPN/com.facebook.katana;FBLC/ne_NP;FBMF/Bangalink;FBBD/Bangalink;FBDV/Samsung Galaxy M13 5G;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
