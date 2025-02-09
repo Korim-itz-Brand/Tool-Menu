@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/371.0.0.22.42;FBBV/264703334;FBRV/0;FBPN/com.facebook.katana;FBLC/bs_BA;FBMF/Samsung;FBBD/Samsung;FBDV/Motorola Moto G Fast;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
